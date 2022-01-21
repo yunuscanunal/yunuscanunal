@@ -6,7 +6,7 @@ Wish you a journey full of excitements and fun! 🏴‍☠️
 
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
-![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=vision-friendly-highcontrast&count_private=true)<br>
+![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=highcontrast&count_private=true)<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunuscanunal/)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&labelColor=gray&color=gray)](https://www.kaggle.com/yunuscanunal)
 [![Gmail](https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&labelColor=white&color=red)](mailto:yunuscanunal1@gmail.com)

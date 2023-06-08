@@ -11,9 +11,8 @@ Actually, my B.Ed degree is Elementary Math Education but my passion is in compu
 Feel free to send me a message about anything!
 <br></br>
 Wish you a journey full of excitements and fun! 🏴‍☠️
-
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
-<br></br>
+
 ![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=panda&count_private=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuscanunal" alt="yunuscanunal" /> </p>
 

@@ -1,17 +1,18 @@
 <h1 style='color:green;';>✨👋 Welcome to my GitHub Page.✨ </h1>
 Hey! This is Yunus. It's nice to have you here :)
-
+<br></br>
 I was a passionate  to that to be data scientist who had a self-learning training on data science. 
+<br></br>
 Nowadays, I keep training myself as a web-developer and try to learn in HTML, CSS, Javascript etc. I am *relatively* skilled in **deep learning** and **computer vision** skills. Currently, I am an B.Ed student in Middle East Technical University *online* and working as a **Trainee** in a start-up.
-
+<br></br>
 Actually, my B.Ed degree is Elementary Math Education but my passion is in computer science as you can see so far. :relaxed: 
-
+<br></br>
 Feel free to send me a message about anything!
-
+<br></br>
 Wish you a journey full of excitements and fun! 🏴‍☠️
 
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
-
+<br></br>
 ![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=panda&count_private=true)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuscanunal" alt="yunuscanunal" /> </p>
 

@@ -4,7 +4,7 @@ Hey! This is Yunus. It's nice to have you here :)
 I was a passionate  to that to be data scientist who had a self-learning training on data science. 
 <br></br>
 
-Nowadays, I keep training myself as a web-developer and try to learn in HTML, CSS, Javascript etc. I am *relatively* skilled in **deep learning** and **computer vision** skills. Currently, I am an B.Ed student in Middle East Technical University *online* and working as a **Trainee** in a start-up.
+Nowadays, I keep training myself as a web-developer and try to learn in HTML, CSS, Javascript etc. I am *relatively* skilled in **deep learning** and **computer vision** skills. Currently, I am an B.Ed student in Middle East Technical University and working as a **Trainee** in a start-up.
 
 Actually, my B.Ed degree is Elementary Math Education but my passion is in computer science as you can see so far. :relaxed: 
 <br></br>

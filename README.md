@@ -12,6 +12,14 @@ Actually, my B.Ed degree is Elementary Math Education but my passion is in compu
 Feel free to send me a message about anything!
 <br></br>
 Wish you a journey full of excitements and fun! 🏴‍☠️
+
+<img src='https://skillicons.dev/icons?i=java,javascript,angular,python,html,css,git,vscode'></img>
+<!--<img src='https://img.icons8.com/color/48/000000/javascript.png'></img>-->
+<!--<img src='https://skillicons.dev/icons?i=java'></img>-->
+<!--<img src='https://img.icons8.com/color/48/000000/python.png'></img>-->
+<!--<img src='https://img.icons8.com/color/48/000000/html-5.png'></img>-->
+<!--<img src='https://img.icons8.com/color/48/000000/css3.png'></img>-->
+
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=panda&count_private=true)
@@ -23,15 +31,9 @@ Wish you a journey full of excitements and fun! 🏴‍☠️
 
 [![Gmail](https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&labelColor=white&color=red)](mailto:yunuscanunal1@gmail.com)
 
-
 *If you are a recruiter, I have something extra for you here:*<br>
 *CV will come here.*
 
-<img src='https://img.icons8.com/color/48/000000/python.png'></img>
-<img src='https://img.icons8.com/color/48/000000/javascript.png'></img>
-<img src='https://img.icons8.com/color/48/000000/html-5.png'></img>
-<img src='https://img.icons8.com/color/48/000000/css3.png'></img>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunuscanunal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![CV](https://img.shields.io/badge/CV-Plain-orange)](https://dar.vin/mg-cv)-->
 <!--[![CV0](https://img.shields.io/badge/CV-Featured-green)](https://dar.vin/mg-cv0)-->

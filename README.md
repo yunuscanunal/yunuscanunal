@@ -3,6 +3,7 @@
 <a href="https://www.kaggle.com/yunuscanunal" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="mailto:yunuscanunal1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <br/> 
+<img src="https://github.com/yunuscanunal/yunuscanunal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 # 💫 Mission Status: Active
 
@@ -71,5 +72,4 @@
 <h3>🏆 Achievements Unlocked</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=yunuscanunal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-<img src="https://github.com/yunuscanunal/yunuscanunal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 <img src="https://komarev.com/ghpvc/?username=yunuscanunal&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />

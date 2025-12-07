@@ -11,12 +11,11 @@
     <td valign="center">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🔭 I’m currently working on a <b>To-Do App with AI Coach Integration</b>.</li>
-        <li>🌱 I’m currently learning <b>Deep Learning & Computer Vision Architectures</b>.</li>
-        <li>👯 I’m looking to collaborate on <b>Open Source AI Projects</b>.</li>
+        <li>🔭 I’m currently conducting R&D on <b>AI-Powered Mobile Architectures</b>.</li>
+        <li>🌱 I’m currently sharpening my skills in <b>Cybersecurity & Network Defense</b>.</li>
+        <li>👯 I’m looking to collaborate on <b>Full-Stack Web Apps</b>.</li>
         <li>💬 Ask me about <b>MERN Stack, Java Spring, or Bonsai Care</b>.</li>
-        <li>⚡ <b>Fun fact:</b> I am obsessed with the scent of <b>Red Sequoia</b> and currently trying to grow one as a bonsai! 🌲</li>
-      </ul>
+        <li>⚡ <b>Fun fact:</b> I am obsessed with the scent of <b>Red Sequoia</b> and currently trying to grow one as a bonsai! 🌲</li></ul>
       </br>
     </td>
   </tr>

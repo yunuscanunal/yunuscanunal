@@ -1,39 +1,54 @@
-<h1 style='color:green;';>✨👋 Welcome to my GitHub Page.✨ </h1>
-Hey! This is Yunus. It's nice to have you here :)
-<br></br>
+<div align="center">
 
-I was a passionate  to that to be  __Software Developer__   who had a self-learning training on computer science. 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yunus+Can+%C3%9Cnal;Software+Developer;METU+Student;AI+%26+Deep+Learning+Enthusiast" alt="Typing SVG" />
 
+<br/>
 
-Nowadays, I keep training myself as a web-developer and try to learn in HTML, CSS, Javascript etc. I am *relatively* skilled in **deep learning** and **computer vision** skills. Currently, I am an B.Ed student in Middle East Technical University and working as a **Trainee** in a start-up.
+<a href="https://www.linkedin.com/in/yunuscanunal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.kaggle.com/yunuscanunal" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="mailto:yunuscanunal1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-Actually, my B.Ed degree is Elementary Math Education but my passion is in computer science as you can see so far. :relaxed: 
-<br></br>
-Feel free to send me a message about anything!
-<br></br>
-Wish you a journey full of excitements and fun! 🏴‍☠️
+<br/>
+<br/>
 
-<img src='https://skillicons.dev/icons?i=java,javascript,angular,python,html,css,git,vscode'></img>
-<!--<img src='https://img.icons8.com/color/48/000000/javascript.png'></img>-->
-<!--<img src='https://skillicons.dev/icons?i=java'></img>-->
-<!--<img src='https://img.icons8.com/color/48/000000/python.png'></img>-->
-<!--<img src='https://img.icons8.com/color/48/000000/html-5.png'></img>-->
-<!--<img src='https://img.icons8.com/color/48/000000/css3.png'></img>-->
+👋 **Welcome to my workspace!**
 
-<!--(https://github.com/anuraghazra/github-readme-stats)-->
+I am a passionate **Software Developer** exploring the depths of Computer Science. <br/>
+Currently, I am an Undergraduate Student at **Middle East Technical University (METU)** and working as a **Trainee** in a start-up.
 
-![Yunus's Stats](https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=panda&count_private=true)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunuscanunal" alt="yunuscanunal" /> </p>
+While my major is *Math Education*, my true passion lies in coding. <br/>
+🚀 I focus on **Web Development**, **Deep Learning**, and **Computer Vision**.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunuscanunal/)
+<br/>
 
-[![Kaggle](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&labelColor=gray&color=gray)](https://www.kaggle.com/yunuscanunal)
+### 🛠 Languages & Tools
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css,angular,git,vscode,pytorch,tensorflow,opencv,pandas,numpy&theme=dark" alt="My Skills" />
 
-[![Gmail](https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&labelColor=white&color=red)](mailto:yunuscanunal1@gmail.com)
+<br/>
+<br/>
 
-*If you are a recruiter, I have something extra for you here:*<br>
-*CV will come here.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yunuscanunal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunuscanunal&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunuscanunal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![CV](https://img.shields.io/badge/CV-Plain-orange)](https://dar.vin/mg-cv)-->
-<!--[![CV0](https://img.shields.io/badge/CV-Featured-green)](https://dar.vin/mg-cv0)-->
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunuscanunal&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+
+<br/>
+<br/>
+
+![](https://github.com/yunuscanunal/yunuscanunal/blob/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+*"Wish you a journey full of excitements and fun! 🏴‍☠️"*
+
+</div>

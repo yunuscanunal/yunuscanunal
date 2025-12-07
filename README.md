@@ -2,8 +2,6 @@
 <a href="https://www.linkedin.com/in/yunuscanunal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.kaggle.com/yunuscanunal" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="mailto:yunuscanunal1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-
-
 <br/> 
 
 # 💫 Mission Status: Active
@@ -11,7 +9,7 @@
 <table>
   <tr>
     <td valign="center">
-      <h3>   👨‍💻 About Me</h3>
+      <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🔭 I’m currently working on a <b>To-Do App with AI Coach Integration</b>.</li>
         <li>🌱 I’m currently learning <b>Deep Learning & Computer Vision Architectures</b>.</li>
@@ -19,6 +17,7 @@
         <li>💬 Ask me about <b>MERN Stack, Java Spring, or Bonsai Care</b>.</li>
         <li>⚡ <b>Fun fact:</b> I am obsessed with the scent of <b>Red Sequoia</b> and currently trying to grow one as a bonsai! 🌲</li>
       </ul>
+      </br>
     </td>
   </tr>
 </table>
@@ -65,27 +64,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<br/>
-
 # 📊 System Metrics
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunuscanunal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-  
   <img src="https://streak-stats.demolab.com?user=yunuscanunal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" />
 
-<br/>
-
 <img src="https://metrics.lecoq.io/yunuscanunal?template=classic&base=activity,community,repositories,metadata&config.timezone=Europe%2FIstanbul&config.theme=tokyonight" alt="Metrics" />
-
-<br/>
-
-  <h3>🏆 Achievements Unlocked</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=yunuscanunal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
-  
-  <br/><br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-
-<br/>
-<br/>
+<h3>🏆 Achievements Unlocked</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=yunuscanunal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 <img src="https://komarev.com/ghpvc/?username=yunuscanunal&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />

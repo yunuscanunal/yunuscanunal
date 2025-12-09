@@ -73,4 +73,3 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yunuscanunal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 <img src="https://komarev.com/ghpvc/?username=yunuscanunal&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://ghtb-counter.vercel.app/api/counter?username=yunuscanunal&label=Views&color=6366f1&labelColor=555555&labelBgColor=eeeeee&countColor=ffffff&style=flat" alt="Profile Views2" />

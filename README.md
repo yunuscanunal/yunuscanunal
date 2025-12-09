@@ -65,8 +65,8 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 System Metrics
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunuscanunal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=yunuscanunal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunuscanunal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+<img src="https://streak-stats.demolab.com?user=yunuscanunal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="streak graph" />
 
 <img src="https://metrics.lecoq.io/yunuscanunal?template=classic&base=activity,community,repositories,metadata&config.timezone=Europe%2FIstanbul&config.theme=tokyonight" alt="Metrics" />
 <h3>🏆 Achievements Unlocked</h3>

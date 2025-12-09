@@ -72,5 +72,4 @@
 <h3>🏆 Achievements Unlocked</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=yunuscanunal&theme=tokyonight&no-frame=true&margin-w=15" alt="trophy" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=yunuscanunal" alt="Profile Unique Views" />
 <img src="https://komarev.com/ghpvc/?username=yunuscanunal&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />

@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&width=435&lines=System.out.println(%22Hello+World!%22);Initiating+Launch+Sequence...;Developer+%7C+AI+Enthusiast+%7C+Dreamer;Growing+Digital+Forests+%26+Bonsais" alt="Typing SVG" />
 
-<a href="https://www.yunuscanunal.me/" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
+<a href="https://www.yunuscanunal.me/" target="_blank"><img src="https://img.shields.io/badge/-FF5722?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/yunuscanunal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.kaggle.com/yunuscanunal" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://mail.google.com/mail/?view=cm&to=yunuscanunal1@gmail.com" target="_blank">
